@@ -26,8 +26,7 @@ public class lesson3 {
             System.out.println(Integer.toBinaryString( i <<3 ));
             System.out.println(!res );
             System.out.println(!res ? boo : boo2);
-
-        }
+           }
     }
 
 
